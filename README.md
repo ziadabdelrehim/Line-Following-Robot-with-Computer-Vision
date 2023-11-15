@@ -1,12 +1,5 @@
 # Line Following Robot with Computer Vision
 
-```python
-"""
-This repository contains Python code for a line-following robot implemented using computer vision.
-The robot uses OpenCV for image processing and communication with an Arduino over Bluetooth for motor control.
-"""
-
-"""
 The Line Following Robot with Computer Vision project is designed to create an autonomous robot capable of following a line using computer vision techniques. The implementation involves integrating OpenCV for image processing and communication with an Arduino for motor control via Bluetooth.
 
 ## Features
@@ -24,19 +17,16 @@ The Line Following Robot with Computer Vision project is designed to create an a
 
 ## Author
 Ziad Abdelrehim Othman
-"""
 
 ## Hardware Requirements
 
-"""
 - Arduino board
 - Bluetooth module
 - Camera module
-"""
+
 
 ## Line Following Algorithms
 
-"""
 The line following in this project is achieved through a merge of two key algorithms:
 
 ### Contour Detection
@@ -46,10 +36,10 @@ The line following in this project is achieved through a merge of two key algori
 ### Hough Line Transform
 - Applies the Hough Line Transform to detect straight lines within the image.
 - Used to identify the linear structure of the track for precise line following.
-"""
+
+
 ## Track Adjustment Technique
 
-"""
 The track adjustment technique employed in this project includes a memory mechanism for each step:
 
 ### Memory for Track Adjustment
