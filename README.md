@@ -14,7 +14,7 @@ The Line Following Robot with Computer Vision project is designed to create an a
 - Track adjustment technique with memory to reverse the robot's previous steps when it deviates from the track.
 
 ## Demo Video
-- [Watch the Line Following Robot in action (Video 1)](https://youtube.com/shorts/nUP3iwmkXG0?feature=share)
+- [Watch the Line Following Robot in action (Video 1)] https://github.com/ziadabdelrehim/Line-Following-Robot-with-Computer-Vision/assets/80210355/0cc01a3c-4325-47c6-bd3f-850b8d2f0f16
 - [Watch another Line Following Robot demonstration (Video 2)](https://youtube.com/shorts/M5eX7upDQvA?feature=share)
 
 ## How it Works
